@@ -33,22 +33,23 @@
 
 ## Front-end
 18.	Définir HTML
-19.	Définir CSS
-20.	Définir Javascript
-21.	Définir JSON. Dans quel contexte ce format est-il utilisé ? 
-22.	Peut-on interpréter du Javascript côté serveur ? Si oui, comment ?
-23.	Qu’est-ce qu’un sélecteur CSS ?
-24.	Quelle balise HTML permet de créer un lien hypertexte ?
-25.	Qu’est-ce qu’une requête AJAX ?
-26.	Quel sélecteur CSS permet de sélectionner tous les éléments d’une classe spécifique ? D’un identifiant spécifique ?
-27.	Définir le responsive design
-28.	Qu’est-ce que le templating ?
-29.	Qu’est-ce qu’une fonction anonyme en Javascript ?
-30.	Quelle méthode JavaScript est utilisée pour ajouter un élément à la fin d'un tableau ?
-31.	Qu’est-ce qu’un « media query » ?
-32.	Qu’est-ce qu’un pseudo élément en CSS ?
-33.	Qu’est-ce que Bootstrap ? Donner d’autres exemples équivalent
-34.	Quand un formulaire HTML est créé, quelles sont les 2 méthodes qui peuvent lui être associées ? Donner la différence entre ces 2 méthodes
+    HTML est un langage...
+20.	Définir CSS
+21.	Définir Javascript
+22.	Définir JSON. Dans quel contexte ce format est-il utilisé ? 
+23.	Peut-on interpréter du Javascript côté serveur ? Si oui, comment ?
+24.	Qu’est-ce qu’un sélecteur CSS ?
+25.	Quelle balise HTML permet de créer un lien hypertexte ?
+26.	Qu’est-ce qu’une requête AJAX ?
+27.	Quel sélecteur CSS permet de sélectionner tous les éléments d’une classe spécifique ? D’un identifiant spécifique ?
+28.	Définir le responsive design
+29.	Qu’est-ce que le templating ?
+30.	Qu’est-ce qu’une fonction anonyme en Javascript ?
+31.	Quelle méthode JavaScript est utilisée pour ajouter un élément à la fin d'un tableau ?
+32.	Qu’est-ce qu’un « media query » ?
+33.	Qu’est-ce qu’un pseudo élément en CSS ?
+34.	Qu’est-ce que Bootstrap ? Donner d’autres exemples équivalent
+35.	Quand un formulaire HTML est créé, quelles sont les 2 méthodes qui peuvent lui être associées ? Donner la différence entre ces 2 méthodes
 
 ## UX UI
 35.	Quelle est la différence entre UX Design et UI Design ?
