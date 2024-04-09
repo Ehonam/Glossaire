@@ -33,7 +33,7 @@
 
 ## Front-end
 18.	Définir HTML
-    HTML est un langage...
+HTML est un langage...
 20.	Définir CSS
 21.	Définir Javascript
 22.	Définir JSON. Dans quel contexte ce format est-il utilisé ? 
