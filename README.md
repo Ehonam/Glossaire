@@ -24,8 +24,9 @@ Ensemble des endroits du programme où existe la variable
 5.	Qu’est-ce qu’une constante ? Quelle est la différence avec une variable ?
 Une valeur fixe qui ne varie pas dans le programme. Une variable par contre peut prendre différentes valeurs ce qui n'est pas le cas d'une constante.
 6.	Qu’est-ce qu’une superglobale, combien en existent-ils et donner un exemple d’utilisation
-  
-13.	Quels sont les différents types (primitifs) que l’on peut associer à une variable en PHP ? Les citer et en donner des exemples (ne pas oublier le type d’une variable sans valeur)
+Un ensemble de variables prédéfinies qui sont disponibles quel que soit le contexte du script. Il en existe 9 dont par exemple $_GET ou $_POST
+7.	Quels sont les différents types (primitifs) que l’on peut associer à une variable en PHP ? Les citer et en donner des exemples (ne pas oublier le type d’une variable sans valeur)
+
 14.	Existe-t-il plusieurs types de tableaux en PHP, si oui lesquels ?
 15.	Quelles sont les différentes structures de contrôles qu’il existe en algorithmie ? Donner un exemple pour chacune d’entre elles
 16.	Quelle est la fonction PHP permettant de demander la longueur d’une chaîne de caractères ?
